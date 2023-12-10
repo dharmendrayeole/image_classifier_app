@@ -1,4 +1,4 @@
-
+pip install scikit-learn
 import streamlit as st
 import numpy as np
 from skimage.io import imread
