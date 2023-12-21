@@ -5,6 +5,7 @@ from skimage.io import imread
 from skimage.transform import resize
 import pickle
 from PIL import Image
+
 st.title("Image Classifier using Machine Learning")
 st.text("Upload the Image")
 
